@@ -1,0 +1,21 @@
+---
+title: "We are officially registered!"
+# description: |
+#   blah blah blah
+author: 
+  - name: Pratik Bhandari
+    # orcid: 
+date: 2025-04-08 
+# citation:                                                                           
+#   url: https://NCCSnepal.github.io/news/2024-07-06-NCCS-officially-registered/ 
+categories: 
+  - news    
+image: registered.jpg
+---
+
+![](registered.jpg){fig-align="center"}
+
+Earlier this month in Chait (चैत) , Nepal Center for Cognition and Society (NCCS)
+was officially registered at the Office of the Company Registrar, Kathmandu.
+NCCS is now legally recognized as a company not distributing profits with its headquarter in Bhadrapur, Jhapa.
+In the next few weeks, it will also be registered at the Social Welfare Council.^[We will update this news as soon as the registration is completed at the Council.] 

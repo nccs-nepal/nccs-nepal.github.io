@@ -1,0 +1,23 @@
+---
+title: "Mission and Values"
+# description: |
+#   Ante in nibh mauris cursus mattis molestie a iaculis at. Elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Amet facilisis magna etiam tempor orci. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Posuere morbi leo urna molestie. 
+---
+
+### Our Mission
+
+- Make a significant contribution to the advancement of psychological and cognitive sciences putting Nepal on the global map of science
+
+- Educate and inspire school-going children – scientists of the next generation – to lead the global research and innovation from Nepal
+
+### Our Values
+
+We believe that there should be no gatekeeping in science. Everyone, regardless of their age, gender, or caste, should have equal opportunity to participate in science education and research. <!-- This is reflected in our management and operation as well as in our research. -->We strive to conduct research that is free from any gatekeeping. We also speak through our research against any gatekeeping in academic research or research community. We are aware and mindful of the fact that some communities (e.g., women and Dalits) have been historically discriminated against, and the constitution warrants positive discrimination to uplift them.
+
+Psychological and cognitive sciences face the so-called replication crisis on the one hand and the problem of basing the findings only on the WEIRD population on the other hand. These crises and problems are not unfounded. Particularly those cognitive scientists who have first-hand experience conducting research in both the Global South and the North can attest that not all the findings from the North are replicable in the South and there may be many reasons for that – from cultural differences to flawed original research. At NCCS, we believe it is imperative to collaborate with the original author and pursue a replication in the local context where applicable. 
+
+Doing research in Nepal is challenging. The challenges are amplified for cognitive science research as government funding for academic research is virtually unavailable. We have to adapt to Nepal’s scenario of underfunded research. Hence, we also request international funding agencies to collaborate with us and fund our research. We also urge the public to participate in and crowdfund for our research. This approach applies to Nepal’s unique situation.
+
+There is a limited number of cognitive scientists in the country. Thus, we are establishing collaboration with experts from universities and labs across the globe while also conducting cross-cultural studies. Our students will get an opportunity to be mentored by scientists from across the world. We believe that inspiring next-generation scientists is important for the country’s future.
+
+We will create a sustainable and collaborative research environment where the flow of ideas among students and senior scientists is not restrained by hierarchy, area of expertise, or other factors. We will collaborate with government agencies, private industries, and corporations. By doing so, we will not only add to the knowledge of the scientific field but also provide consultation on a policy level.

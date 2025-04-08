@@ -1,0 +1,24 @@
+<!-- <center><a><img src="images/c4a.png" alt="Draft of C4A logo" width="300px"/></a></center> -->
+
+<center>
+
+  <h1>Nepal Center for Cognition and Society (NCCS)</h1>
+
+  <img src="images/c4a.png" alt="Draft of C4A logo" width="300px"/>
+
+  <style>
+    img {
+      border-radius: 50%;
+    }
+  </style>
+
+</center>
+
+<br>
+
+<p style="text-align: center;">
+  Nepal Center for Cognition and Society (NCCS)
+  is an independent, not-for-profit academic research organization founded in Bhadrapur, a south-east town of Nepal. 
+  We are researchers with diverse backgrounds in cognitive and psychological sciences, neuroscience, linguistics, computer science, philosophy, sociology, and health sciences.
+  We aim to understand cognition and cognitive processes in humans and animals using behavioral, neuroimaging, electrophysiological, and computational methods and tools in multidisciplinary and interdisciplinary teams.
+</p>

@@ -1,0 +1,30 @@
+---
+title: "Biraj Bhattarai"
+description: |
+  **Research Associate** 
+# date: 2020-03-12
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+image: biraj.jpeg
+---
+
+:::: {.columns}
+
+::: {.column width="23.9%"}
+![](biraj.jpeg)
+:::
+
+::: {.column width="3%"}
+<!-- empty space between image and text -->
+:::
+
+::: {.column width="60%"}
+Biraj Bhattarai is a Research Associate at NCCS. He is interested in understanding cognitive processing in neuro-communication disorder, specifically aphasia. His research utilizes neuroimaging technology like fNIRS to assess neural correlates of cognition, language, and related functions in persons with aphasia.
+He is a doctoral student at Louisiana State University.
+:::
+
+::::
+

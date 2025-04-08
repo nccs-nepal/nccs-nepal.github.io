@@ -1,0 +1,92 @@
+project:
+  type: website
+  output-dir: _site
+  preview:
+    port: 8000
+
+highlight-style: ayu
+code-annotations: hover
+
+execute:
+  warning: false
+  error: false
+  cache: true
+
+website:
+  title: "Nepal Center for Cognition and Society"
+  site-url: "https://nccs.com.np"
+  repo-url: "https://github.com/nccs-nepal"
+  favicon: images/nccsbrain.png #c4r.png
+  open-graph:
+    image: images/nccsbrain.png #c4r.png
+  twitter-card:
+    image: images/nccsbrain.png #c4r.png
+  reader-mode: false
+  
+  page-footer:
+    left: |
+      Website made with [Quarto](https://quarto.org/), by [Pratik Bhandari](https://pratikb.com/). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+    center:
+      - text: "Contact"
+        href: contact.qmd
+      - text: "FAQ"
+        href: faq.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/crcnepal
+        aria-label: Twitter
+      - icon: github
+        href: https://github.com/nccs-nepal
+        aria-label: GitHub
+      # - icon: rss
+      #   href: https://quarto.org/docs/blog/index.xml
+      #   aria-label: Quarto Blog RSS
+
+  navbar:
+    logo: images/nccsbrain.png #c4r.png #openscapes_hex.png
+    href: https://openscapes.org
+    pinned: true
+    right:
+    # - text: "Home"
+    #   href: index.html
+    - text: "About"
+      menu: 
+        - text: "About us"
+          href: about.qmd
+        - text: "Mission and Values"
+          href: mission.qmd
+    - text: "People"
+      href: team.qmd
+    # - text: "Research"
+    #   menu:
+    #     - text: "Projects"
+    #       href: projects.qmd
+    #     - text: "Publications"
+    #       href: publications.qmd
+    #     - text: "Collaborations"
+    #       href: collaborations.qmd
+    - text: "Research"
+      href: research.qmd
+    # - text: "News & Events"
+    #   menu: 
+    #     - text: "News"
+    #       href: news.qmd
+    #     - text: "Newsletter"
+    #       href: newsletter.qmd  
+    #     - text: "Events"
+    #       href: events.qmd
+    - text: "News"
+      href: news.qmd
+    - text: "Contact"
+      href: contact.qmd
+    # - icon: github
+    #   href: https://github.com/crcnepal
+
+
+format:
+  html:
+    theme: [united, custom.scss]
+    css: styles.css
+    toc: true
+    toc-title: Contents
+    toc-location: left

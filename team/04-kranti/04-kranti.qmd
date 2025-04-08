@@ -1,0 +1,29 @@
+---
+title: "Kranti Acharya"
+description: |
+  **Research Associate** 
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+image: kranti.png
+---
+
+:::: {.columns}
+
+::: {.column width="23.9%"}
+![](kranti.png)
+:::
+
+::: {.column width="3%"}
+<!-- empty space between image and text -->
+:::
+
+::: {.column width="60%"}
+Kranti Acharya is a Research Associate at NCCS. She is a clinical researcher interested in cross-cultural issues in the assessment and treatment of cognitive-communication disorders, such as the reliability and validity of tests developed in English languages on the Nepali population.
+She is a faculty member at the National Academy of Medical Sciences (NAMS), Bir Hospital, Kathmandu.
+:::
+
+::::
+

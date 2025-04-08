@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2025-04-08-c4r-officially-registered/index.html"
+    ]
+  },
+  {
+    "listing": "/team.html",
+    "items": [
+      "/team/01-pratik/01-pratik.html",
+      "/team/04-kranti/04-kranti.html",
+      "/team/03-biraj/03-biraj.html",
+      "/team/02-sajana/02-sajana.html",
+      "/team/05-sabin/05-sabin.html"
+    ]
+  },
+  {
+    "listing": "/newsletter.html",
+    "items": []
+  }
+]

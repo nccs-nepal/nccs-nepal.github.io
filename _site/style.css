@@ -1,0 +1,8 @@
+/* Hide the default References heading */
+#References h2 {
+    display: none;
+}
+/* Justify text across all qmd files in the repo */
+#quarto-document-content {
+    text-align: justify;
+}

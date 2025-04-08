@@ -1,0 +1,20 @@
+---
+title: "Frequently Asked Questions"
+# description: |
+#  These are frequently asked questions blah blah blah...
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+**When was NCCS established?**
+
+NCCS was established in April 2025.
+
+---
+
+**What does it do?**
+
+It is an academic research center. It conducts multidisciplinary research across multiple domains of cognitive and health sciences.
