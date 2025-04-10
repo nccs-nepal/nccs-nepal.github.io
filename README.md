@@ -1,4 +1,6 @@
-This is the source code of Nepal Center for Cognition and Society's homepage. 
+### Nepal Center for Cognition and Society
+
+[nccs-nepal.github.io](https://nccs-nepal.github.io/)
 
 NCCS is a multidisciplinary research center based in Nepal.
 
