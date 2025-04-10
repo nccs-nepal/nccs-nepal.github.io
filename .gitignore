@@ -6,4 +6,7 @@
 /.quarto/
 *_cache/
 
+docs/newsletter.html
+docs/events.html
+
 .DS_Store

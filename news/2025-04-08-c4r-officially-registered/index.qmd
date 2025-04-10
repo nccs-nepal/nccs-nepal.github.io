@@ -18,4 +18,4 @@ image: registered.jpg
 Earlier this month in Chait (चैत) , Nepal Center for Cognition and Society (NCCS)
 was officially registered at the Office of the Company Registrar, Kathmandu.
 NCCS is now legally recognized as a company not distributing profits with its headquarter in Bhadrapur, Jhapa.
-In the next few weeks, it will also be registered at the Social Welfare Council.^[We will update this news as soon as the registration is completed at the Council.] 
+In the next few weeks, it will also be registered at the Social Welfare Council.<!--^[We will update this news as soon as the registration is completed at the Council.]-->
