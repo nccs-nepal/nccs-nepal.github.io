@@ -8,5 +8,7 @@
 
 docs/newsletter.html
 docs/events.html
+events.qmd
+newsletter.qmd
 
 .DS_Store
