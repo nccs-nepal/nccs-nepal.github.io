@@ -1,7 +1,7 @@
 ---
 title: "Biraj Bhattarai"
 description: |
-  **Research Associate** 
+  **Research Affiliate** 
 # date: 2020-03-12
 output:
   distill::distill_article:

@@ -1,7 +1,7 @@
 ---
 title: "Sabin Sharma"
 description: |
-  **Research Associate** 
+  **Adjunct Researcher** 
 output:
   distill::distill_article:
     self_contained: false

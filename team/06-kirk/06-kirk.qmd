@@ -1,0 +1,34 @@
+---
+title: "Kirk Goddard"
+description: |
+  **Adjunct Researcher** 
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+image: kirk.png
+---
+
+:::: {.columns}
+
+::: {.column width="23.9%"}
+![](kirk.png)
+:::
+
+::: {.column width="3%"}
+<!-- empty space between image and text -->
+:::
+
+::: {.column width="60%"}
+Kirk Goddard is an NLP Engineer with an expertise in natural language processing, linguistics, and cognitive neuroscience.
+He is interested in applying AI to language-related tasks that can be useful to writers and readers.
+He has a blend of experience working across academia and industry.
+He studied and researched topics like eye movements in reading and auditory feedback alteration in speech production at University of Massachusetts ([UMass](https://www.massachusetts.edu/)), US and the Basque Center on Cognition, Brain and Language ([BCBL](https://www.bcbl.eu/en)), Spain.
+Following that, he also worked at [Apple](https://apple.com/) in the US.
+Currently, he is an NLP Engineer at [Writer](https://writer.com/).
+
+:::
+
+::::
+

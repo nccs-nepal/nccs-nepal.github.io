@@ -4,8 +4,10 @@ bibliography: references.bib
 csl: apa.csl
 css: style.css
 ---
-### **Ongoing projects**
+### **Ongoing projects** 
 
+soon to be updated
+<!--
 ##### **Cognitive consequences of multilingualism**
 
 Knowing two or more languages is associated not only with social skills but is also shown to be beneficial for improved performance in cognitive and academic tasks among children. Nepali society is multicultural and multilingual, with 124 languages spoken as native languages (population census of 2021). What roles do such sociolinguistic and sociocultural diversities play in moderating the potentially beneficial effects of multilingualism? In this project, we aim to answer this question, primarily focusing on multilingual education in primary schools and its effects on academic performance and cognitive skills of high and low-proficiency L2 and L3 multilingual speakers.
@@ -14,9 +16,7 @@ Relevant works: @bhandari2020interlocutors, @mishra2019aging, @bhandari2018ms
 
 ##### **Many faces of autism care: Transition to adolescence and Stress on service providers**
 
-Children diagnosed with autism face a complex set of challenges (social, biological, and emotional) as they transition to adolescence. It goes unaddressed in Nepal’s current healthcare framework. The policies and practices ignore the children’s unique set of needs. Healthcare professionals and policymakers alike have focused on promoting speech, language, and functional communication. There’s almost no attention to the changing needs of children transitioning to adolescence. At the same time, healthcare professionals are tasked with taking care of an overwhelming number of children suspected of autism. They are under immense stress and time pressure. They are also under-trained to take care of transitioning children, which worsens the condition. In this project, we objectively assess the factors that compromise the quality of care that autistic children receive. We also examine the factors that worsen the mental health (stress and emotional well-being) of autism care providers. We focus on children with autism transitioning to adolescence to find gaps in policy and practices that ought to be filled so that those children can receive better care in the days to come.
-
-Relevant work: @bhandari2016autism
+Children diagnosed with autism face a complex set of challenges (social, biological, and emotional) as they transition to adolescence. It goes unaddressed in Nepal’s current healthcare framework. The policies and practices ignore the children’s unique set of needs. Healthcare professionals and policymakers alike have focused on promoting speech, language, and functional communication. There’s almost no attention to the changing needs of children transitioning to adolescence. At the same time, healthcare professionals are tasked with taking care of an overwhelming number of children suspected of autism. They are under immense stress and time pressure. They are also under-trained to take care of transitioning children, which worsens the condition. In this project, we objectively assess the factors that compromise the quality of care that autistic children receive. We also examine the factors that worsen the mental health (stress and emotional well-being) of autism care providers. We focus on children with autism transitioning to adolescence to find gaps in policy and practices that ought to be filled so that those children can receive better care in the days to come.-->
 
 ### **Past projects**
 
@@ -27,5 +27,7 @@ NCCS researchers have led or been a part of studies across various domains of he
 **Psychological response to covid-19 pandemic**: See @lieberoth2021covid
 
 **Executive control in bilinguals**: See @bhandari2020interlocutors, @mishra2019aging
+
+**Neurodiversity**: @bhandari2016autism
 
 <!-- ## **Culturally sensitive tool for autism diagnosis** -->

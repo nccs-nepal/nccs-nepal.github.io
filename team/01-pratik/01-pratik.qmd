@@ -1,5 +1,5 @@
 ---
-title: "Dr Pratik Bhandari"
+title: "Dr. Pratik Bhandari"
 description: |
   **Founder and Director of Research** 
 output:
@@ -21,11 +21,12 @@ image: pratik.jpg
 :::
 
 ::: {.column width="60%"}
-[Dr Pratik Bhandari](https://pratikb.com) is the founder and Director of Research at NCCS.
+[Dr. Pratik Bhandari](https://pratikb.com) is the founder and Director of Research at NCCS.
 He is an interdisciplinary researcher with over a decade of experience and expertise in
 cognitive neuroscience and psycholinguistics.
 His research spans across predictive language processing, executive control, developmental language disorders, metacognition, cognitive consequences of multilingualism, among others.
-Dr Bhandari is also an adjunct faculty member at the National Academy of Medical Sciences (NAMS), Bir Hospital, Kathmandu.
+He has studied and conducted research across different research institutes and universities in Nepal, India, Spain, and Germany.
+Dr. Bhandari is also an adjunct faculty member at the National Academy of Medical Sciences (NAMS), Bir Hospital, Kathmandu.
 <!-- He also has a keen interest in studying the effects of rising global temperatures and extreme weather events
 on people's livelihoods in the developing and least-developed countries in the Global South. -->
 :::
