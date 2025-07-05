@@ -9,6 +9,7 @@ output:
     toc: true
     toc_depth: 3
 image: biraj.jpeg
+order: 3
 ---
 
 :::: {.columns}
@@ -22,7 +23,7 @@ image: biraj.jpeg
 :::
 
 ::: {.column width="60%"}
-Biraj Bhattarai is a Research Associate at NCCS. He is interested in understanding cognitive processing in neuro-communication disorder, specifically aphasia. His research utilizes neuroimaging technology like fNIRS to assess neural correlates of cognition, language, and related functions in persons with aphasia.
+Biraj is interested in understanding cognitive processing in neuro-communication disorder, specifically aphasia. His research utilizes neuroimaging technology like fNIRS to assess neural correlates of cognition, language, and related functions in persons with aphasia.
 He is a doctoral student at Louisiana State University.
 :::
 

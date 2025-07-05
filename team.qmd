@@ -2,7 +2,7 @@
 title: "Meet our team"
 listing:
   contents: team 
-  sort: false #"date desc"
+  sort: "order" #false #"date desc"
   type: grid #default
   image-align: left
   max-description-length: 30000
