@@ -1,7 +1,7 @@
 ---
 title: "Sajana Aryal"
 description: |
-  **Research Affiliate** 
+  **Adjunct Researcher** 
 output:
   distill::distill_article:
     self_contained: false

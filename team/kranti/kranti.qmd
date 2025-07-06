@@ -7,14 +7,14 @@ output:
     self_contained: false
     toc: true
     toc_depth: 3
-image: kranti.png
+image: kranti.jpg
 order: 5
 ---
 
 :::: {.columns}
 
 ::: {.column width="23.9%"}
-![](kranti.png)
+![](kranti.jpg)
 :::
 
 ::: {.column width="3%"}
@@ -23,7 +23,7 @@ order: 5
 
 ::: {.column width="60%"}
 Kranti is a clinical researcher interested in cross-cultural issues in the assessment and treatment of cognitive-communication disorders, such as the reliability and validity of tests developed in English languages on the Nepali population.
-She is a faculty member at the National Academy of Medical Sciences (NAMS), Bir Hospital, Kathmandu.
+She is an Assistant Professor at the National Academy of Medical Sciences (NAMS), Bir Hospital, Kathmandu.
 :::
 
 ::::
