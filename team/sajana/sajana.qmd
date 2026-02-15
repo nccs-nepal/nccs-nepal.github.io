@@ -22,7 +22,7 @@ order: 2
 :::
 
 ::: {.column width="60%"}
-[Sajana](https://github.com/SajanaAryal)'s research focuses on subclinical auditory damage, particularly the significance of extended high-frequency hearing and its implications for speech perception and neurophysiological processing. She is motivated to understand how early auditory damage influences neural mechanisms and perceptual outcomes, shaping broader implications for hearing health. She is a doctoral student at the University of Texas at Austin.
+[Sajana](https://sites.google.com/view/sajanaaryal/home)'s research focuses on subclinical auditory damage, particularly the significance of extended high-frequency hearing and its implications for speech perception and neurophysiological processing. She is motivated to understand how early auditory damage influences neural mechanisms and perceptual outcomes, shaping broader implications for hearing health. She is a doctoral student at the University of Texas at Austin.
 :::
 
 ::::
