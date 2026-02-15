@@ -6,8 +6,8 @@ listing:
   type: default #grid
   image-align: right
   max-description-length: 175
-  date-format: medium
-  categories: true
+  date-format: iso
+  categories: false
 page-layout: full
 #title-block-banner: "#F8D98F" # use this for solid color banner
 #aliases: 

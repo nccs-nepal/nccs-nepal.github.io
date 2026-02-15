@@ -14,7 +14,7 @@ execute:
 
 website:
   title: "Nepal Center for Cognition and Society"
-  site-url: "https://nccs.com.np"
+  site-url: "https://nccsnepal.org"
   repo-url: "https://github.com/nccs-nepal"
   favicon: images/nccsbrain.png #c4r.png
   open-graph:
@@ -27,7 +27,7 @@ website:
     left: |
       Website made with [Quarto](https://quarto.org/), by [Pratik Bhandari](https://pratikb.com/). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
     center: |
-      © NCCS 2025
+      © NCCS 2026
       
 # - text: "Contact"
 #   href: contact.qmd
@@ -82,7 +82,7 @@ website:
     - text: "Contact"
       href: contact.qmd
     # - icon: github
-    #   href: https://github.com/crcnepal
+    #   href: https://github.com/nccs-nepal
 
 
 format:

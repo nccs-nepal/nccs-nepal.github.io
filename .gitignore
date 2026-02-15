@@ -11,4 +11,8 @@ docs/events.html
 events.qmd
 newsletter.qmd
 
+news/2025-*/
+docs/news/2025-*/
+
 .DS_Store
+

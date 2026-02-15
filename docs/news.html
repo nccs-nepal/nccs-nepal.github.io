@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -96,12 +96,12 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Nepal Center for Cognition and Society - News">
-<meta property="og:image" content="https://nccs.com.np/images/nccsbrain.png">
+<meta property="og:image" content="https://nccsnepal.org/images/nccsbrain.png">
 <meta property="og:site-name" content="Nepal Center for Cognition and Society">
 <meta property="og:image:height" content="1216">
 <meta property="og:image:width" content="741">
 <meta name="twitter:title" content="Nepal Center for Cognition and Society - News">
-<meta name="twitter:image" content="https://nccs.com.np/images/nccsbrain.png">
+<meta name="twitter:image" content="https://nccsnepal.org/images/nccsbrain.png">
 <meta name="twitter:image-height" content="1216">
 <meta name="twitter:image-width" content="741">
 <meta name="twitter:card" content="summary_large_image">
@@ -171,10 +171,10 @@ ul.task-list li input[type="checkbox"] {
   
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(2)</span></div></div></div>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -199,7 +199,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="news" data-listing-date-sort="1771092900000" data-listing-file-modified-sort="1771165103819" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="0" data-categories="publication" data-listing-date-sort="1771092900000" data-listing-file-modified-sort="1771166267947" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
 <p><a href="./news/2026-02-15-hl-prevalence-publication-01/index.html"> <img src="./news/2026-02-15-hl-prevalence-publication-01/protocolbmj.png" class="thumbnail-image"> </a></p>
 </div>
@@ -211,13 +211,6 @@ Published in BMJ Open
 <div class="listing-subtitle">
 
 </div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-</div>
-<a href="./news/2026-02-15-hl-prevalence-publication-01/index.html">
 <div class="listing-description">
 A protocol paper co-authored by NCCS researchers Pratik Bhandari and Sajana Arayal is now out in BMJ Open.
 </div>
@@ -226,42 +219,7 @@ A protocol paper co-authored by NCCS researchers Pratik Bhandari and Sajana Aray
 <div class="metadata">
 <a href="./news/2026-02-15-hl-prevalence-publication-01/index.html">
 <div class="listing-date">
-Feb 15, 2026
-</div>
-<div class="listing-author">
-Pratik Bhandari
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="news" data-listing-date-sort="1744049700000" data-listing-file-modified-sort="1744258027603" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="./news/2025-04-08-c4r-officially-registered/index.html"> <img src="./news/2025-04-08-c4r-officially-registered/registered.jpg" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./news/2025-04-08-c4r-officially-registered/index.html">
-<h3 class="no-anchor listing-title">
-We are officially registered!
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-</div>
-<a href="./news/2025-04-08-c4r-officially-registered/index.html">
-<div class="listing-description">
-Earlier this month in Chait (चैत) , Nepal Center for Cognition and Society (NCCS) was officially registered at the Office of the Company Registrar, Kathmandu. NCCS is now…<!--^[We will update this news as soon as the registration is completed at the Council.]-->
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./news/2025-04-08-c4r-officially-registered/index.html">
-<div class="listing-date">
-Apr 8, 2025
+2026-02-15
 </div>
 <div class="listing-author">
 Pratik Bhandari
@@ -576,7 +534,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">Website made with <a href="https://quarto.org/">Quarto</a>, by <a href="https://pratikb.com/">Pratik Bhandari</a>. License: <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</div>   
-    <div class="nav-footer-center">© NCCS 2025</div>
+    <div class="nav-footer-center">© NCCS 2026</div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

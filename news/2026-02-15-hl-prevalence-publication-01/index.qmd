@@ -9,7 +9,8 @@ date: 2026-02-15
 # citation:                                                                           
 #   url: https://NCCSnepal.github.io/news/2024-07-06-NCCS-officially-registered/ 
 categories: 
-  - news    
+  # - news    
+  - publication
 image: protocolbmj.png
 ---
 

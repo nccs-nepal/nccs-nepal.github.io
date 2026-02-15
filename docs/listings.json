@@ -1,10 +1,7 @@
 [
   {
-    "listing": "/news.html",
-    "items": [
-      "/news/2026-02-15-hl-prevalence-publication-01/index.html",
-      "/news/2025-04-08-c4r-officially-registered/index.html"
-    ]
+    "listing": "/newsletter.html",
+    "items": []
   },
   {
     "listing": "/team.html",
@@ -17,7 +14,9 @@
     ]
   },
   {
-    "listing": "/newsletter.html",
-    "items": []
+    "listing": "/news.html",
+    "items": [
+      "/news/2026-02-15-hl-prevalence-publication-01/index.html"
+    ]
   }
 ]
