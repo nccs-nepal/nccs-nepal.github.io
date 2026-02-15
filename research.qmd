@@ -6,7 +6,9 @@ css: style.css
 ---
 ### **Ongoing projects** 
 
-soon to be updated
+**Misophonia among Nepali adolescents**: Data collection and analysis ongoing
+
+**Review of hearing loss in Nepal**: @bhandari2026prevalence
 <!--
 ##### **Cognitive consequences of multilingualism**
 
