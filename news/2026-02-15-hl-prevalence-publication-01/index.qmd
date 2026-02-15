@@ -1,0 +1,22 @@
+---
+title: "Published in BMJ Open"
+# description: |
+#   blah blah blah
+author: 
+  - name: Pratik Bhandari
+    orcid: 0000-0001-5486-3352
+date: 2026-02-15 
+# citation:                                                                           
+#   url: https://NCCSnepal.github.io/news/2024-07-06-NCCS-officially-registered/ 
+categories: 
+  - news    
+image: protocolbmj.png
+---
+
+A protocol paper co-authored by NCCS researchers Pratik Bhandari and Sajana Arayal is now out in BMJ Open. 
+
+Congrats Pratik and Sajana! 🎉
+
+![](protocolbmj.png){fig-align="center"}
+
+Find the paper [here](https://doi.org/10.1136/bmjopen-2025-109331).
