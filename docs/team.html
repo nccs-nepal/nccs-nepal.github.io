@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -227,119 +227,96 @@ Sajana Aryal is a Research Associate at NCCS. Her research focuses on subclinica
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1769485374696" data-listing-reading-time-sort="1">
-<a href="./team/pratik/pratik.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./team/pratik/pratik.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;Pratik Bhandari
-</h5>
-<div class="card-text listing-description">
-<p><strong>Director of Research</strong></p>
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Name
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1771138084365" data-listing-reading-time-sort="1">
-<a href="./team/sajana/sajana.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./team/sajana/sajana.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Sajana Aryal
-</h5>
-<div class="card-text listing-description">
-<p><strong>Adjunct Researcher</strong></p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+</th>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Name</a>
+</th>
+<th>
+Role
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1771596238002" data-listing-reading-time-sort="1" data-listing-title-sort="Dr. Pratik Bhandari" data-listing-filename-sort="pratik.qmd">
+<td>
+<span class="listing-image"><img src="./team/pratik/pratik.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<a href="./team/pratik/pratik.html" class="title listing-title">Dr.&nbsp;Pratik Bhandari</a>
+</td>
+<td>
+<span class="listing-description"><strong>Director of Research</strong> </span>
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1771596291825" data-listing-reading-time-sort="1" data-listing-title-sort="Sajana Aryal" data-listing-filename-sort="sajana.qmd">
+<td>
+<span class="listing-image"><img src="./team/sajana/sajana.png" style="height: 40px;"></span>
+</td>
+<td>
+<a href="./team/sajana/sajana.html" class="title listing-title">Sajana Aryal</a>
+</td>
+<td>
+<span class="listing-description"><strong>Adjunct Researcher</strong> </span>
+</td>
+</tr>
+<tr data-index="2" data-listing-file-modified-sort="1771596259485" data-listing-reading-time-sort="1" data-listing-title-sort="Biraj Bhattarai" data-listing-filename-sort="biraj.qmd">
+<td>
+<span class="listing-image"><img src="./team/biraj/biraj.jpeg" style="height: 40px;"></span>
+</td>
+<td>
+<a href="./team/biraj/biraj.html" class="title listing-title">Biraj Bhattarai</a>
+</td>
+<td>
+<span class="listing-description"><strong>Adjunct Researcher</strong> </span>
+</td>
+</tr>
+<tr data-index="3" data-listing-file-modified-sort="1771596280303" data-listing-reading-time-sort="1" data-listing-title-sort="Kirk Goddard" data-listing-filename-sort="kirk.qmd">
+<td>
+<span class="listing-image"><img src="./team/kirk/kirk.png" style="height: 40px;"></span>
+</td>
+<td>
+<a href="./team/kirk/kirk.html" class="title listing-title">Kirk Goddard</a>
+</td>
+<td>
+<span class="listing-description"><strong>Adjunct Researcher</strong> </span>
+</td>
+</tr>
+<tr data-index="4" data-listing-file-modified-sort="1771596227626" data-listing-reading-time-sort="1" data-listing-title-sort="Kranti Acharya" data-listing-filename-sort="kranti.qmd">
+<td>
+<span class="listing-image"><img src="./team/kranti/kranti.jpg" style="height: 40px;"></span>
+</td>
+<td>
+<a href="./team/kranti/kranti.html" class="title listing-title">Kranti Acharya</a>
+</td>
+<td>
+<span class="listing-description"><strong>Adjunct Researcher</strong> </span>
+</td>
+</tr>
+</tbody>
 
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1751770730651" data-listing-reading-time-sort="1">
-<a href="./team/biraj/biraj.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./team/biraj/biraj.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Biraj Bhattarai
-</h5>
-<div class="card-text listing-description">
-<p><strong>Adjunct Researcher</strong></p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1751771037659" data-listing-reading-time-sort="1">
-<a href="./team/kirk/kirk.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./team/kirk/kirk.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Kirk Goddard
-</h5>
-<div class="card-text listing-description">
-<p><strong>Adjunct Researcher</strong></p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1751772029540" data-listing-reading-time-sort="1">
-<a href="./team/kranti/kranti.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./team/kranti/kranti.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Kranti Acharya
-</h5>
-<div class="card-text listing-description">
-<p><strong>Adjunct Researcher</strong></p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
+</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

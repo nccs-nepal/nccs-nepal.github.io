@@ -1,7 +1,9 @@
 [
   {
-    "listing": "/newsletter.html",
-    "items": []
+    "listing": "/news.html",
+    "items": [
+      "/news/2026-02-15-hl-prevalence-publication-01/index.html"
+    ]
   },
   {
     "listing": "/team.html",
@@ -14,9 +16,7 @@
     ]
   },
   {
-    "listing": "/news.html",
-    "items": [
-      "/news/2026-02-15-hl-prevalence-publication-01/index.html"
-    ]
+    "listing": "/newsletter.html",
+    "items": []
   }
 ]

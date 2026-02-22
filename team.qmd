@@ -3,7 +3,12 @@ title: "Meet our team"
 listing:
   contents: team 
   sort: "order" #false #"date desc"
-  type: grid #default
+  type: table #default #grid 
+  fields: [image, title, description]
+  field-display-names: 
+    title: "Name"
+    description: "Role"
+    # image: "Looks like:"
   image-align: left
   max-description-length: 30000
   date-format: iso

@@ -7,14 +7,14 @@ output:
     self_contained: false
     toc: true
     toc_depth: 3
-image: sajana.jpg
+image: sajana.png
 order: 2
 ---
 
 :::: {.columns}
 
 ::: {.column width="23.9%"}
-![](sajana.jpg)
+![](sajana.png)
 :::
 
 ::: {.column width="3%"}
