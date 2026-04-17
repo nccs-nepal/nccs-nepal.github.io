@@ -1,0 +1,27 @@
+---
+title: "Sajana is now Dr. Sajana Aryal"
+# description: |
+#   blah blah blah
+author: 
+  - name: Pratik Bhandari
+    orcid: 0000-0001-5486-3352
+date: 2026-04-17 
+categories: 
+  # - news    
+  - celebration
+image: congrats.jpg
+---
+
+<!-- ![](sajana.jpg){fig-align="center"} -->
+
+On April 9, NCCS researcher [Sajana](../../team/sajana/sajana.html) successfully defended her PhD (thesis titled *Individual differences in cochlear compression reveal incipient cochlear changes in normal-hearing adults*).
+She is now a PhD graduate from the University of Texas at Austin.
+Soon she will come with the news of her postdoc journey. Stay tuned. ;) 
+
+Congrats Dr. Sajana! 🎉
+
+![](congrats.jpg){fig-align="center"}
+
+
+***
+![](../../team/sajana/sajana.jpg){fig-align="center"}

@@ -19,3 +19,5 @@ docs/team/dario
 
 .DS_Store
 
+
+**/*.quarto_ipynb
