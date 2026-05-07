@@ -2,6 +2,7 @@
 title: "Dr. Pratik Bhandari"
 description: |
   **Research Scientist** & **Director of Research**
+institution: "NCCS & National Academy of Medical Sciences"
 output:
   distill::distill_article:
     self_contained: false

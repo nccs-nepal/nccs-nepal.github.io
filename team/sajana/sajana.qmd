@@ -2,6 +2,7 @@
 title: "Dr. Sajana Aryal"
 description: |
   **Adjunct Research Scientist**
+institution: "University of Iowa & NCCS"
 output:
   distill::distill_article:
     self_contained: false

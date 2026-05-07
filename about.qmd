@@ -13,19 +13,59 @@ title: "About"
 ---
 
 Nepal Center for Cognition and Society (NCCS)
-is an independent not-for-profit research organization founded in Bhadrapur, a south-east town of Nepal. At NCCS, we aspire to conduct state-of-the-art scientific research to forge a comprehensive understanding of *human cognition* and *cognitive processes*, placing Nepal on the world map of science. NCCS will be one of the few non-government, not-for-profit research institutes regularly publishing in prestigious international journals, training national and international students, and producing innovation. At NCCS, we prioritize the free flow of ideas among our researchers and maintain intellectual freedom unconstrained by research domain, nationality, age, or gender.
+is an independent not-for-profit research organization founded in Bhadrapur, southeastern Nepal. 
+We are a team of researchers distributed globally,
+<!-- NCCS operates as a distributed network of researchers and collaborators-->
+working in interdisciplinary collaboration to study cognitive and related health sciences. 
+At present, NCCS is in a developmental phase.
+We are initiating pilot research projects, building collaborations with researchers and labs in Nepal and internationally, and establishing access to technical infrastructure through institutional partnerships.
+<!-- At NCCS, we aspire to conduct state-of-the-art scientific research to forge a comprehensive understanding of *human cognition* and *cognitive processes*, placing Nepal on the world map of science.
+NCCS will be one of the few non-government, not-for-profit research institutes regularly publishing in prestigious international journals, training national and international students, and producing innovation. 
+At NCCS, we prioritize the free flow of ideas among our researchers and maintain intellectual freedom unconstrained by research domain, nationality, age, or gender. -->
 
-We bring together experts from various fields – *neuroscience*, *linguistics*, *psychology*, *computer science* and *AI*, *philosophy*, and *health sciences* – to study human cognition in interdisciplinary and multidisciplinary teams. Researchers at NCCS collaborate with each other and with labs in universities and industries across the globe to study *consciousness*, cognitive consequences of *multilingualism* and *meditation*, *executive control*, *cognitive aging*, *language comprehension*, *predictive language processing*, and *neurodevelopmental conditions* like Autism, among others.
+<!-- We bring together experts from various fields – *neuroscience*, *linguistics*, *psychology*, *computer science* and *AI*, *philosophy*, and *health sciences* – to study human cognition in interdisciplinary and multidisciplinary teams. Researchers at NCCS collaborate with each other and with labs in universities and industries across the globe to study *consciousness*, cognitive consequences of *multilingualism* and *meditation*, *executive control*, *cognitive aging*, *language comprehension*, *predictive language processing*, and *neurodevelopmental conditions* like Autism, among others. -->
 
-At a time when the psychological and cognitive sciences are going through a replication crisis, we carry out research on the non-WEIRD population in the Nepali context. This will be a crucial building block in the knowledge base of human cognition while testing the validity of the "well-established" findings.
+### Why NCCS
 
-Along with research, science education is our foundational pillar. We aim to make the public aware of scientific methodology. We train students across all levels of school and college to inspire the next generation of scientists to lead innovation and discovery in the global landscape from Nepal. We believe that it is vital for the nation's future to foster a research culture and scientific thinking among school-going children.
+A large proportion of research in cognitive and psychological sciences are based on populations from the Western Educated Industrialized Rich and Democratic (WEIRD) societies.
+In the light of ongoing replication crisis, questions have arose whether such findings are generalizable and are representative of entire humanity. However, the diverse populations of the Global South, including Nepal, is severely under-represented in the cognitive science research. NCCS aims to address this gap by conducting cross-cultural research on the non-WEIRD population answering fundamental questions of human cognition.
 
-Our scientists, teachers, and staff will strive to make a better future for the generation to come by creating knowledge and contributing to science, technology, and innovation.
+This expands the scope of cognitive and brain sciences not just its geography and representation (i.e., predominantly in the western hemisphere with an under-representation of the Global South researchers), but also brings in the possibility of diverse scientific minds in answering the questions of the mind/brain.
 
-**Things to know**:
+### What we do
 
-- We are not-for-profit. Our activities are driven by the motivation of producing scientific knowledge and public service. 
-- We are independent. We are not affiliated with any other agency, institution, organization, or company.
-- We support science communication and STEM education. We train school students on science and research methodology and spread awareness among the public about scientific methods.
-- We are open to collaboration to achieve these goals.
+NCCS's work spans across three main interconnected areas.
+
+#### 1. Research
+
+We initiate and collaborate on research projects in cognitive and psychological sciences and related health sciences with a focus on:
+
+**Predictive language processing**
+
+  - Predictive processing in typical and atypical population
+  - Contextual probability and cognitive effort in humans and LLMs
+
+**Cognitive health and communication disorders**
+
+  - Neurodevelopmental disorders (autism)
+  - Stroke and language impairment (aphasia, dysarthria)
+  - Executive control in decreased sound tolerance (tinnitus, misophonia, hyperacusis)
+
+#### 2. Collaboration
+
+There is a limited number of scientists working in the area of cognitive and psychological sciences with a constrained infrastructure.
+Considering this, we collaborate with:
+
+- Researchers and labs in universities and research institutes globally
+- Clinicians and practitioners in health-related fields
+- Institutions that can provide access to lab facilities and technical resources
+
+Through collaborations, we aim to build methodological capacity and enable cross-cultural research.
+
+#### 3. Science Education and Communication
+
+At NCCS, we believe that science education is foundational to long-term research development. 
+We introduce students to scientific thinking and research methodology, supporting early exposure to cognitive science concepts.
+We also aim to promote public understanding of how modern scientific knowledge is produced.
+NCCS also aspires to interact with leaders of different fields to understand and promote diverse local methods of knowledge production, besides modern scientific methods.
+These activities are intended to contribute to the gradual development of a research culture in Nepal.

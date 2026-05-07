@@ -4,10 +4,11 @@ listing:
   contents: team 
   sort: "order" #false #"date desc"
   type: table #default #grid 
-  fields: [image, title, description]
+  fields: [image, title, description, institution]
   field-display-names: 
     title: "Name"
     description: "Role"
+    institution: "Affiliation"
     # image: "Looks like:"
   image-align: left
   max-description-length: 30000

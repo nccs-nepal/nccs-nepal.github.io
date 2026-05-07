@@ -2,6 +2,7 @@
 title: "Kirk Goddard"
 description: |
   **Adjunct Researcher** 
+institution: "Writer Inc. & NCCS"
 output:
   distill::distill_article:
     self_contained: false

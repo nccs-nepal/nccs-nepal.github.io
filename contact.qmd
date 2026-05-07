@@ -7,11 +7,18 @@ title: "Get in touch"
 
 ------------------------------------------------------------------------
 
-<strong> <i class="bi bi-envelope-at"></i> Email at <a href="mailto:web@nccs.pratikb.com"><code>web@nccs.pratikb.com</code></a></strong>. Or find us here:
+<strong> <i class="bi bi-envelope-at"></i> Email at <a href="mailto:web@nccs.pratikb.com"><code>web@nccsnepal.org</code></a></strong>. Or find us here:
+
+**Nepal Center for Cognition and Society** \
+c/o Dr. Pratik Bhandari\
+Bhadrapur-10\
+57200 Jhapa\
+Koshi, Nepal
+
 
 <!-- -   <i class="bi bi-linkedin"></i><a rel="me" href="https://www.linkedin.com/in/prbhx/">LinkedIn</a> -->
 
--   <i class="bi bi-github"></i><a rel="me" href="https://github.com/nccs-nepal">Github</a>
+<!-- -   <i class="bi bi-github"></i><a rel="me" href="https://github.com/nccs-nepal">Github</a> -->
 
 <!-- -   <a rel="me" href="https://bsky.app/profile/pratikb.com"><i class="bi bi-square-fill"></i>Bluesky</a> -->
 

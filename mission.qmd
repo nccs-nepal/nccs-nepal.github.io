@@ -1,18 +1,59 @@
 ---
-title: "Mission and Values"
+title: " "
 # description: |
 #   Ante in nibh mauris cursus mattis molestie a iaculis at. Elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Amet facilisis magna etiam tempor orci. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Posuere morbi leo urna molestie. 
 ---
 
 ### Our Mission
 
-- Make a significant contribution to the advancement of psychological and cognitive sciences putting Nepal on the global map of science
+To contribute to the advancement of cognitive and psychological sciences by generating and supporting research on underrepresented populations, while fostering a culture of scientific inquiry and education in Nepal
 
-- Educate and inspire school-going children – scientists of the next generation – to lead the global research and innovation from Nepal
+### Our Vision
+
+We are building NCCS into a globally recognized, independently operating research institute
+producing globally relevant and locally meaningful scientific knowledge.
+
+Our long-term goal is to demonstrate that rigorous, reproducible cognitive science can be conducted sustainably from a non-WEIRD context,
+and that geography and early infrastructure constraints are not ceilings on scientific ambition.
+
+We envision NCCS as a center where researchers from across diverse areas of cognitive sciences come together to collaborate and conduct interdisciplinary research.
+NCCS will become a leading institute housing in-house and remote labs, PIs, and trainees,
+regularly contributing to the global knowledge base of cognitive science and to the relevant policy-making of the country.
+
+We aim to be a model for research institutions across the Global South working
+towards similar ambition.
 
 ### Our Values
 
-We believe that there should be no gatekeeping in science. Everyone, regardless of their age, gender, or caste, should have equal opportunity to participate in science education and research. <!-- This is reflected in our management and operation as well as in our research. -->We strive to conduct research that is free from any gatekeeping. We also speak through our research against any gatekeeping in academic research or research community. We are aware and mindful of the fact that some communities (e.g., women and Dalits) have been historically discriminated against, and the constitution warrants positive discrimination to uplift them.
+#### Scientific rigor and openness
+
+We are committed to rigorous, open, and reproducible research practice.
+We pre-register our studies, and make code and data publicly available where applicable.
+Human subject research is conducted under formal IRB oversight.
+
+#### Equity and inclusion
+
+We believe there should be no gatekeeping in science, and no discrimination based on one's caste, gender, or geography.
+Being mindful of historical inequities, we support efforts to broaden participation in science.
+
+#### Contextual relevance
+
+We recognize that cognitive processes are shaped by one's environment and cultural contexts.
+We prioritize research that seeks to understand cognition through the cross-cultural lens in the non-WEIRD populations, realizing the local and regional contexts.
+
+#### Collaboration
+
+We view collaboration is essential not only for individual research but for creating and sustaining the research environment broadly, particularly in the resource-constrained setting.
+We actively seek collaboration with stakeholders of science in Nepal and globally that enable mutual learning, capacity building, and co-create research and policy.
+
+#### Capacity building
+
+Conducting rigorous research in Nepal takes effort and resources that adapts and lasts beyond a single project.
+Through our work, we are interested in contributing to gradual development of Nepal's research infrastructure, capacity, and scientific culture.
+
+<!-- 
+We believe that there should be no gatekeeping in science. Everyone, regardless of their age, gender, or caste, should have equal opportunity to participate in science education and research. <!-- This is reflected in our management and operation as well as in our research. -->
+<!-- We strive to conduct research that is free from any gatekeeping. We also speak through our research against any gatekeeping in academic research or research community. We are aware and mindful of the fact that some communities (e.g., women and Dalits) have been historically discriminated against, and the constitution warrants positive discrimination to uplift them.
 
 Psychological and cognitive sciences face the so-called replication crisis on the one hand and the problem of basing the findings only on the WEIRD population on the other hand. These crises and problems are not unfounded. Particularly those cognitive scientists who have first-hand experience conducting research in both the Global South and the North can attest that not all the findings from the North are replicable in the South and there may be many reasons for that – from cultural differences to flawed original research. At NCCS, we believe it is imperative to pursue a replication in the local context where applicable. 
 
@@ -21,3 +62,4 @@ Doing research in Nepal is challenging. The challenges are amplified for cogniti
 There is a limited number of cognitive scientists in the country. Thus, we are establishing collaboration with experts from universities and labs across the globe while also conducting cross-cultural studies. Our students will get an opportunity to be mentored by scientists from across the world. We believe that inspiring next-generation scientists is important for the country's future.
 
 We will create a sustainable and collaborative research environment where the flow of ideas among students and senior scientists is not restrained by hierarchy, area of expertise, or other factors. We will collaborate with government agencies, private industries, and corporations. By doing so, we will not only add to the knowledge of the scientific field but also provide consultation on a policy level.
+ -->
