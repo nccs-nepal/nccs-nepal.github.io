@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "Updates"
 listing:
   contents: news # changed from `blog`
   sort: "date desc"
