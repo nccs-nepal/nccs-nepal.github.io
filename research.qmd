@@ -6,7 +6,41 @@ css: style.css
 ---
 <!-- ### **Ongoing projects**  -->
 
-NCCS researchers are leading and collaborating in multiple projects across various domains in health care and cognitive sciences, some of which are listed below.
+<!-- As an organization established in 2025, we are currently in an early-stage research development phase.  -->
+Our research projects (active and in-preparation) are currently in the domain of computational- and psycho-linguistics, neurodevelopmental disorders, and audiology.
+
+### **Ongoing research projects**
+
+Following projects are being initiated and conducted under NCCS:
+
+1. **Predictive processing in typical and atypical population**
+    - Area: Predictive language processing, Developmental stuttering
+    - Status: Under IRB review
+    - Methods: Lab-based behavioral experiment, Computational analysis
+    - PI: Dr. Pratik Bhandari
+<br> </br>
+
+2. **Misophonia among Nepali adolescents**
+    - Area: Sound sensitivity, Public health
+    - Status: Under IRB review
+    - Methods: Survey-based study
+    - PI: Dr. Sajana Aryal
+<br> </br>
+
+3. **Hearing loss in Nepal**
+    - Area: Audiology, Public health
+    - Status: Ongoing
+    - Methods: Meta-analysis
+    - PI: Dr. Pratik Bhandari
+
+[A paper](https://doi.org/10.1136/bmjopen-2025-109331) has recently been published in BMJ Open [@bhandari2026prevalence].
+
+***
+
+### Prior research by our members
+
+Some of our researchers are also affiliated with universities and institutions around the world.
+Below is the list of projects that they have undertaken across various domains of cognitive and related health sciences at different institutions prior to and alongside NCCS:
 
 - **Advancing hearing health research in low- and middle-income countries**: @bhandari2026prevalence, @bhattarai2024qol, @raza2023review, @aryal2022nepali
 

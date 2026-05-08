@@ -2,6 +2,7 @@
 title: "Dr. Pratik Bhandari"
 description: |
   **Research Scientist** & **Director of Research**
+institution: "NCCS"
 output:
   distill::distill_article:
     self_contained: false
@@ -36,4 +37,3 @@ on people's livelihoods in the developing and least-developed countries in the G
 :::
 
 ::::
-

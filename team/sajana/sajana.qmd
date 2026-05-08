@@ -2,6 +2,7 @@
 title: "Dr. Sajana Aryal"
 description: |
   **Adjunct Research Scientist**
+institution: "NCCS & University of Texas at Austin"
 output:
   distill::distill_article:
     self_contained: false
@@ -26,4 +27,3 @@ order: 2
 :::
 
 ::::
-

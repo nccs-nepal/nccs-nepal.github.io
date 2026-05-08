@@ -1,5 +1,5 @@
 ---
-title: "Sajana is now Dr. Sajana Aryal"
+title: "Sajana is now Dr. Aryal"
 # description: |
 #   blah blah blah
 author: 
@@ -14,14 +14,15 @@ image: congrats.jpg
 
 <!-- ![](sajana.jpg){fig-align="center"} -->
 
-On April 9, NCCS researcher [Sajana](../../team/sajana/sajana.html) successfully defended her PhD (thesis titled *Individual differences in cochlear compression reveal incipient cochlear changes in normal-hearing adults*).
+On April 9, NCCS researcher [Sajana Aryal](../../team/sajana/sajana.html) successfully defended her PhD (thesis titled *Individual differences in cochlear compression reveal incipient cochlear changes in normal-hearing adults*).
 She is now a PhD graduate from the University of Texas at Austin.
 Soon she will come with the news of her postdoc journey. Stay tuned. ;) 
 
-Congrats Dr. Sajana! 🎉
+Congrats Dr. Aryal! 🎉
 
-![](congrats.jpg){fig-align="center"}
-
+![](../../team/sajana/sajana.jpg){fig-align="center" width="175" height="auto"}
 
 ***
-![](../../team/sajana/sajana.jpg){fig-align="center"}
+
+![](congrats.jpg){fig-align="center" width="250" height="auto"}
+

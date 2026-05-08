@@ -13,7 +13,7 @@ execute:
   cache: true
 
 website:
-  title: "Nepal Center for Cognition and Society"
+  title: "Nepal Center for Cognition and Society – NCCS"
   site-url: "https://nccsnepal.org"
   repo-url: "https://github.com/nccs-nepal"
   favicon: images/nccsbrain.png #c4r.png
@@ -46,18 +46,19 @@ website:
 
   navbar:
     logo: images/nccsbrain.png #c4r.png #openscapes_hex.png
-    href: https://openscapes.org
+    href: https://nccsnepal.org
     pinned: true
     right:
     # - text: "Home"
     #   href: index.html
-    - text: "About"
-      menu: 
-        - text: "About us"
-          href: about.qmd
-        - text: "Mission and Values"
-          href: mission.qmd
-    - text: "People"
+    # - text: "About"
+    #   - href: about.qmd
+      # menu: 
+      #   - text: "About us"
+      #     href: about.qmd
+      #   - text: "Mission, Vision, and Values"
+      #     href: mission.qmd
+    - text: "Team"
       href: team.qmd
     # - text: "Research"
     #   menu:
@@ -77,7 +78,7 @@ website:
     #       href: newsletter.qmd  
     #     - text: "Events"
     #       href: events.qmd
-    - text: "News"
+    - text: "Updates"
       href: news.qmd
     - text: "Contact"
       href: contact.qmd
@@ -87,7 +88,7 @@ website:
 
 format:
   html:
-    theme: [united, custom.scss]
+    theme: [journal, custom.scss]
     css: styles.css
     toc: true
     toc-title: Contents

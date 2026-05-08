@@ -3,6 +3,7 @@ title: "Biraj Bhattarai"
 description: |
   **Adjunct Researcher** 
 # date: 2020-03-12
+institution: "NCCS & Louisiana State University"
 output:
   distill::distill_article:
     self_contained: false
@@ -28,4 +29,3 @@ He is a doctoral student at Louisiana State University.
 :::
 
 ::::
-

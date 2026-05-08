@@ -2,6 +2,7 @@
 title: "Kranti Acharya"
 description: |
   **Adjunct Researcher** 
+institution: "NCCS & National Academy of Medical Sciences"
 output:
   distill::distill_article:
     self_contained: false
